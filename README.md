@@ -5,6 +5,8 @@
 Tecnologias para usar no projeto:
 
 <img src"https://github.com/Patrickcder/Pagina_Cadastro/blob/main/css3-original.png" height "50" width"50">
+!https://github.com/Patrickcder/Pagina_Cadastro/blob/main/css3-original.png
+
 
 
 
